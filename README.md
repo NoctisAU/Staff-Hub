@@ -24,8 +24,3 @@ Simple tool for TF2 staff lets you check punishments rules and commands while pl
 4 Scroll or click stuff to open it
 5 Hit F7 again or press Exit to close it
 
-## Build it
-
-```bash
-npm install
-npm start
