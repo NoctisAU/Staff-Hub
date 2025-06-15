@@ -1,4 +1,4 @@
-# UGC Staff Overlay
+# Staff Hub
 
 Simple tool for TF2 staff lets you check punishments rules and commands while playing
 
