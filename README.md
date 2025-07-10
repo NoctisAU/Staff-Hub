@@ -15,6 +15,8 @@ Simple tool for TF2 staff lets you check punishments rules and commands while pl
 - **Staff Commands** like sm_ban sm_kick sm_warn sm_sprayban all in one spot
 - Broken up into sections like chat VIP server
 - Click to see more info nothing fancy
+- Live Players
+- Live Calladmin alerts
 
 ## How it works
 
